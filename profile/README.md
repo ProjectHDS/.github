@@ -9,6 +9,6 @@ The Repositories:
 * [HerodotusUtils](https://github.com/ProjectHDS/HerodotusUtils), the exclusive mod and the foundation of the modpack.
 * [ModularController](https://github.com/ProjectHDS/ModularController), a powerful ModularMachinery add-on originally from HerodotusUtils.
 * [DLCLoader](https://github.com/ProjectHDS/DLCLoader), a mod to improve/replace `#modloaded`.
-* [TheRAM](https://github.com/ProjectHDS/TheRAM), a deprecated pack for showing the `Rainbow Assembly Machine.
+* [TheRAM](https://github.com/ProjectHDS/TheRAM), a deprecated pack for showing the `Rainbow Assembly Machine`.
 * [Pheidias](https://github.com/ProjectHDS/Pheidias), a WIP exclusive UI pack for Herodotus.
 * [ModpackTemplate](https://github.com/ProjectHDS/ModpackTemplate), a complex modpack GitHub repository structure with some useful workflow files.
