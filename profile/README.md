@@ -11,4 +11,4 @@ The Repositories:
 * [DLCLoader](https://github.com/ProjectHDS/DLCLoader), a mod to improve/replace `#modloaded`.
 * [TheRAM](https://github.com/ProjectHDS/TheRAM), a deprecated pack for showing the `Rainbow Assembly Machine.
 * [Pheidias](https://github.com/ProjectHDS/Pheidias), a WIP exclusive UI pack for Herodotus.
-* [ModpackTemplate](https://github.com/ProjectHDS/ModpackTemplate), a complex modpack GitHub repository structure with some useful workflow files:.
+* [ModpackTemplate](https://github.com/ProjectHDS/ModpackTemplate), a complex modpack GitHub repository structure with some useful workflow files.
