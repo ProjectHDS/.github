@@ -12,3 +12,4 @@ The Repositories:
 * [TheRAM](https://github.com/ProjectHDS/TheRAM), a deprecated pack for showing the `Rainbow Assembly Machine`.
 * [Pheidias](https://github.com/ProjectHDS/Pheidias), a WIP exclusive UI pack for Herodotus.
 * [ModpackTemplate](https://github.com/ProjectHDS/ModpackTemplate), a complex modpack GitHub repository structure with some useful workflow files.
+* [Antikythera](https://github.com/ProjectHDS/Antikythera), a Nonebot system for PHDS's player communication QQ Group.
